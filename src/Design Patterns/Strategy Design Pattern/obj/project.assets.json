@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AnujJain\\Documents\\Design-Patterns\\src\\Design Patterns\\Singleton Design Pattern\\Singleton Design Pattern.csproj",
-      "projectName": "Singleton Design Pattern",
-      "projectPath": "C:\\Users\\AnujJain\\Documents\\Design-Patterns\\src\\Design Patterns\\Singleton Design Pattern\\Singleton Design Pattern.csproj",
+      "projectUniqueName": "C:\\Users\\AnujJain\\Documents\\Design-Patterns\\src\\Design Patterns\\Strategy Design Pattern\\Strategy Design Pattern.csproj",
+      "projectName": "Strategy Design Pattern",
+      "projectPath": "C:\\Users\\AnujJain\\Documents\\Design-Patterns\\src\\Design Patterns\\Strategy Design Pattern\\Strategy Design Pattern.csproj",
       "packagesPath": "C:\\Users\\AnujJain\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AnujJain\\Documents\\Design-Patterns\\src\\Design Patterns\\Singleton Design Pattern\\obj\\",
+      "outputPath": "C:\\Users\\AnujJain\\Documents\\Design-Patterns\\src\\Design Patterns\\Strategy Design Pattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AnujJain\\AppData\\Roaming\\NuGet\\NuGet.Config",

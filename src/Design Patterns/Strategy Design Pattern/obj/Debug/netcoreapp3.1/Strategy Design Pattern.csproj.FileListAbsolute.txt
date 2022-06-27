@@ -1,0 +1,13 @@
+C:\Users\AnujJain\Documents\Design-Patterns\src\Design Patterns\Strategy Design Pattern\bin\Debug\netcoreapp3.1\Strategy Design Pattern.exe
+C:\Users\AnujJain\Documents\Design-Patterns\src\Design Patterns\Strategy Design Pattern\bin\Debug\netcoreapp3.1\Strategy Design Pattern.deps.json
+C:\Users\AnujJain\Documents\Design-Patterns\src\Design Patterns\Strategy Design Pattern\bin\Debug\netcoreapp3.1\Strategy Design Pattern.runtimeconfig.json
+C:\Users\AnujJain\Documents\Design-Patterns\src\Design Patterns\Strategy Design Pattern\bin\Debug\netcoreapp3.1\Strategy Design Pattern.runtimeconfig.dev.json
+C:\Users\AnujJain\Documents\Design-Patterns\src\Design Patterns\Strategy Design Pattern\bin\Debug\netcoreapp3.1\Strategy Design Pattern.dll
+C:\Users\AnujJain\Documents\Design-Patterns\src\Design Patterns\Strategy Design Pattern\bin\Debug\netcoreapp3.1\Strategy Design Pattern.pdb
+C:\Users\AnujJain\Documents\Design-Patterns\src\Design Patterns\Strategy Design Pattern\obj\Debug\netcoreapp3.1\Strategy Design Pattern.csproj.AssemblyReference.cache
+C:\Users\AnujJain\Documents\Design-Patterns\src\Design Patterns\Strategy Design Pattern\obj\Debug\netcoreapp3.1\Strategy Design Pattern.AssemblyInfoInputs.cache
+C:\Users\AnujJain\Documents\Design-Patterns\src\Design Patterns\Strategy Design Pattern\obj\Debug\netcoreapp3.1\Strategy Design Pattern.AssemblyInfo.cs
+C:\Users\AnujJain\Documents\Design-Patterns\src\Design Patterns\Strategy Design Pattern\obj\Debug\netcoreapp3.1\Strategy Design Pattern.csproj.CoreCompileInputs.cache
+C:\Users\AnujJain\Documents\Design-Patterns\src\Design Patterns\Strategy Design Pattern\obj\Debug\netcoreapp3.1\Strategy Design Pattern.dll
+C:\Users\AnujJain\Documents\Design-Patterns\src\Design Patterns\Strategy Design Pattern\obj\Debug\netcoreapp3.1\Strategy Design Pattern.pdb
+C:\Users\AnujJain\Documents\Design-Patterns\src\Design Patterns\Strategy Design Pattern\obj\Debug\netcoreapp3.1\Strategy Design Pattern.genruntimeconfig.cache

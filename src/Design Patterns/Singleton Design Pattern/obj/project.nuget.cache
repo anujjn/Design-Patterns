@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "i02rycGwDvYwvjmdTEqo5i9q+JXnDqtjL4IMOa43LquUeFiwqsFUUlCIkB66631sGXkisR/DxG88Zh5yxtrxqA==",
+  "dgSpecHash": "0JyFjXU+AAPzp49Lq4oIT/GVHmvN75cvGCi/VSRhECdhz70YdNsV7Hjybw7+TgybPSxXoPxTIO4ddMWv46g2qA==",
   "success": true,
   "projectFilePath": "C:\\Users\\AnujJain\\Documents\\Design-Patterns\\src\\Design Patterns\\Singleton Design Pattern\\Singleton Design Pattern.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\AnujJain\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
   "logs": []
 }
